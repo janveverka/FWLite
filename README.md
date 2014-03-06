@@ -23,4 +23,4 @@ See also [5].  The file with the cvs2git options is stored at [6].
 - [3] http://cvs.web.cern.ch/cvs/cgi-bin/viewcvs.cgi/UserCode/JanVeverka/FWLite
 - [4] https://github.com/mhagger/cvs2svn/commit/b0ae0c98b0d5bf4b42425799814a9712d66c0073
 - [5] http://cms-sw.github.io/cmssw/usercode-faq.html#how_do_i_migrate_to_github
-- [6] https://github.com/janveverka/FWLite/my-cvs2git.options
+- [6] https://github.com/janveverka/FWLite/blob/master/my-cvs2git.options
